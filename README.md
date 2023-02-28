@@ -9,3 +9,5 @@ The datapath has RAM, 16-bit mux, 16x16 register file, and ALU. RAM has data sav
 
 
 Lastly, each module had been simulated with its testbench, and the top level module had been emulated on DE2-115 to debug.
+
+To check each module's detail, please check SimpleProject.docx
