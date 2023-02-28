@@ -1,5 +1,5 @@
 # SimpleProcessor
-This is a 16-bit simple processor written in SystemVerilog with a controller and a datapath module. 
+This is a 16-bit simple processor written in SystemVerilog. It has a controller and a datapath module. 
 Both modules are connected with multiple address, data, and controller buses.
 It can add and subtract two numbers, store data, load data, has no operation, and halt.
 
