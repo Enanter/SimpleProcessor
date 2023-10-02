@@ -14,3 +14,7 @@ To check each module's detail, please check SimpleProject.docx(https://docs.goog
 
 
 DEMO video: https://drive.google.com/file/d/1zyvEdDL0EP5kUAi6qQiFTYZmS470VuCc/view?usp=share_link
+
+
+*correction: Instead of the term ROM, which has instructions stored, it should be L1i (level 1 cache instruction).
+             And Instead of RAM, it should be L1d (level 1 cache data).
